@@ -60,7 +60,8 @@ Al refrescar la base de datos el articulo se a eliminado.
 
 ![](./src/assets/elimi1.png)
 
-
+## Haz clic para ver la API  -->
+[Base_de_Datos_Lista_de_Compras](https://github.com/walter7f/LaboratorioPractico-DesarrolloWeb/tree/main/dbtodo)
 
 #     ¡Gracias!... 
 ------------------------------
