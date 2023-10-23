@@ -1,6 +1,5 @@
-import { createApp } from 'vue'
-import App from './App.vue'
-import router from './router'
-import store from './store'
+// main.js
+import { createApp } from "vue";
+import TodoList from "./components/TodoList.vue";
 
-createApp(App).use(store).use(router).mount('#app')
+createApp(TodoList).mount("#app");
